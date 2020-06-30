@@ -1,0 +1,16 @@
+﻿body {
+}
+
+.logo {
+    height: 100px;
+    width: 300px;
+    color: blue;
+}
+
+.jumbotron {
+    background: none;
+}
+
+footer {
+    padding-top: 20px;
+}
